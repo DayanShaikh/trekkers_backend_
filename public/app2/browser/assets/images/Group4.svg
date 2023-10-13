@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>AD4F703E-2DDC-49FF-9ADE-64B2DF25197A</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Landingspagina-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="101_Mobile-768-country-page" transform="translate(-478.000000, -2145.000000)" stroke="#212B35" stroke-width="2">
+            <g id="Group-9" transform="translate(454.000000, 2024.000000)">
+                <g id="Group" transform="translate(24.000000, 74.000000)">
+                    <g id="Group-4" transform="translate(1.000000, 48.000000)">
+                        <path d="M11,0 L11,4" id="Shape"></path>
+                        <path d="M22,11 L18,11" id="Shape"></path>
+                        <path d="M11,22 L11,18" id="Shape"></path>
+                        <path d="M0,11 L4,11" id="Shape"></path>
+                        <circle id="Oval" cx="11" cy="11" r="11"></circle>
+                        <polyline id="Shape" points="7 5 11 11 15 11"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

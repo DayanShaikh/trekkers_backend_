@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>EE9ACC19-3315-4DCD-B6E0-B78820418B5D</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Landingspagina-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="101_Mobile-768-country-page" transform="translate(-478.000000, -2220.000000)" stroke="#212B35" stroke-width="2">
+            <g id="Group-9" transform="translate(454.000000, 2024.000000)">
+                <g id="Group" transform="translate(24.000000, 74.000000)">
+                    <g id="Group-3" transform="translate(1.000000, 123.000000)">
+                        <path d="M0,3 L0,7 C0,8.657 2.686,10 6,10 C9.314,10 12,8.657 12,7 L12,3" id="Shape"></path>
+                        <path d="M0,7 L0,11 C0,12.657 2.686,14 6,14 C7.537,14 8.938,13.71 10,13.235" id="Shape"></path>
+                        <path d="M0,11 L0,15 C0,16.657 2.686,18 6,18 C7.537,18 8.939,17.711 10,17.236" id="Shape"></path>
+                        <ellipse id="Oval" cx="6" cy="3" rx="6" ry="3"></ellipse>
+                        <path d="M10,11 L10,15 C10,16.657 12.686,18 16,18 C19.314,18 22,16.657 22,15 L22,11" id="Shape"></path>
+                        <path d="M10,15 L10,19 C10,20.657 12.686,22 16,22 C19.314,22 22,20.657 22,19 L22,15" id="Shape"></path>
+                        <ellipse id="Oval" cx="16" cy="11" rx="6" ry="3"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
